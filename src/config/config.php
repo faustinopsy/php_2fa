@@ -6,8 +6,8 @@ return [
     ],
     'mail' => [
         'host' => 'smtp.gmail.com',
-        'username' => 'usuario@gmail.com',
-        'password' => 'senha',
+        'username' => 'rfaustino007@gmail.com',
+        'password' => 'wyye fzwo jcpa ipqn',
         'port' => 587,
         'encryption' => 'tls',
     ],
